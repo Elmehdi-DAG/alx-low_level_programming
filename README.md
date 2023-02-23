@@ -1,1 +1,1 @@
-for learning C
+this a readme file for learning language C
